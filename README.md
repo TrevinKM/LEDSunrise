@@ -1,2 +1,1 @@
-
-# LEDSUNRISE
+Control the time your LED's wake you up using raspberry pi
